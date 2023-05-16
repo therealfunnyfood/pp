@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming</title>
+    <link>https://jacobw.dev/</link>
+    <description>Recent content on Programming</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jacobw.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Background</title>
+      <link>https://jacobw.dev/posts/bg/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacobw.dev/posts/bg/</guid>
+      <description>Programming is the process of making a set of instructions that you give to a computer to perform a task.
+A program is a file that contains a bunch of computer instructions that run in sequence or together to perform the intended task.
+There are many different types of programs, ways to program, and programming languages.
+A programming language is made up of many different functions and things that help translate human language to things that computers can understand.</description>
+    </item>
+    
+    <item>
+      <title>How I Became an Expert and Why I Chose This</title>
+      <link>https://jacobw.dev/posts/abtme/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacobw.dev/posts/abtme/</guid>
+      <description>I&amp;rsquo;ve always been interested in programming since I was little but I never did anything about it. Last year when I saw that Timber Creek offered a computer science class (AP Computer Science Principles) I was extatic and I chose it immediately. I learned how to program in python in that class, and a bunch of other computer science topics and fundementals.
+Halfway through the year last year, I joined Timber Creek&amp;rsquo;s Programming Team.</description>
+    </item>
+    
+    <item>
+      <title>Sources</title>
+      <link>https://jacobw.dev/posts/sources/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacobw.dev/posts/sources/</guid>
+      <description>“Why Is Programming Important?” GCU, 25 Sept. 2020, www.gcu.edu/blog/engineering-technology/computer-programming-importance.
+Chouchanian, Vic. Programming Languages, 2010, www.csun.edu/~vgc30838/Projecth.html.
+“Stack Overflow Developer Survey 2020.” Stack Overflow, Feb. 2020, https://insights.stackoverflow.com/survey/2020#most-popular-technologies.</description>
+    </item>
+    
+  </channel>
+</rss>
